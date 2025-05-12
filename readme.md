@@ -1,5 +1,5 @@
-# Generate a detailed README.md draft for the GitHub repository
-readme_content = """
+
+
 # Customer Attrition Risk Modeling
 
 **Project Title:** Customer Attrition Risk Modeling: Predicting High-Risk Customer Exits in Telecom Using Data Science and ML
@@ -76,7 +76,5 @@ GridSearchCV with StratifiedKFold on the best model for optimal parameters.
 - **Price-to-service ratio** matters: customers paying more per service are less satisfied.
 - **Single or low-family-support users** tend to churn more frequently.
 
----
 
-## 📦 Project Structure
 
